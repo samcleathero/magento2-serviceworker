@@ -1,5 +1,7 @@
 # Meanbee_ServiceWorker
 
+## This fork exists so I could install the previously forked module via Composer - it is unlikely to be maintained.
+
 A Magento 2 extension that adds [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) support.
 
 Features:
